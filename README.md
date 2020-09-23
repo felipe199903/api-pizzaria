@@ -30,3 +30,11 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Objetivos
+
+- cadastro de usuários 
+- login
+- pizzas
+- envio
+- pagamento 
